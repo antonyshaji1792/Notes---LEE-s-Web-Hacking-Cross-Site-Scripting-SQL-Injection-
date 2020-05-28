@@ -3,3 +3,7 @@ Ex . alert function to show some message
 window location for redirecting to different page.
 
 2. To avoid XXS attacks use strip tags before insert into DB.
+
+3. value1,value2,value3) -- 
+
+use of -- will comment the regular sql code. And our current injected code with the sent in as sql 
