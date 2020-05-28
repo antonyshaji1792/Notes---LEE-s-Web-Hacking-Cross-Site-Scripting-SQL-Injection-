@@ -1,0 +1,5 @@
+1. Using JS we can enter the details in the DB. If those data is fectched on the target browser, the JS will get executed.
+Ex . alert function to show some message
+window location for redirecting to different page.
+
+2. To avoid XXS attacks use strip tags before insert into DB.
